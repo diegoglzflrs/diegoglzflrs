@@ -9,4 +9,3 @@ HELLO THIS IS MY GITHUB PAGE I WRITE WATEVER I WAAAAAAAAAAAAAAAAANT AHAHAHAHAAAA
 <br><br>
 like mario said; *LETS A GO!!* keep it up baby! <br>
 <img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/><img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/><img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/><img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
