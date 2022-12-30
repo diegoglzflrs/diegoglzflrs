@@ -8,4 +8,6 @@ HELLO THIS IS MY GITHUB PAGE I WRITE WATEVER I WAAAAAAAAAAAAAAAAANT AHAHAHAHAAAA
 **I AM THE BEST PROGRAMMER EVER I DO C, JAVASCRIPT, PYTHON, PHP (NOT ANYMORE THO BECASUE IT SUUUUUUUUCKS) AND JAVA!!!**
 <br><br>
 like mario said; *LETS A GO!!* keep it up baby! <br>
-<img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/><img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/><img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/><img style="margin: 10px" src="https://github.com/diegoglzflrs/diegoglzflrs/blob/main/mario.gif" alt="mario.gif" height="50"/>
+![mario](https://user-images.githubusercontent.com/101153684/210099222-8d70aeb6-c4cc-4a9d-8ab9-115acebc6d41.gif)
+![mario](https://user-images.githubusercontent.com/101153684/210099222-8d70aeb6-c4cc-4a9d-8ab9-115acebc6d41.gif)
+![mario](https://user-images.githubusercontent.com/101153684/210099222-8d70aeb6-c4cc-4a9d-8ab9-115acebc6d41.gif)
