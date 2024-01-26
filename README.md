@@ -6,6 +6,17 @@ Diego González Flores <br>
 UANL / FCFM / LCC / 5to Semestre
 
 <h1>LANGUAGES</h1>
-Java
-C
-Transact-SQL
+<span style="white-space:nowrap">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="java.png" height="60"/>
+<a href="" style="white-space:normal"></a>
+</span>
+
+<span style="white-space:nowrap">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c.png" height="60"/>
+<a href="" style="white-space:normal"></a>
+</span>
+
+<span style="white-space:nowrap">
+<img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="sql.png" height="60"/>
+<a href="" style="white-space:normal"></a>
+</span>
