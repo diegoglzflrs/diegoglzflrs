@@ -20,3 +20,8 @@ UANL / FCFM / LCC / 5to Semestre
 <img src="https://brandslogos.com/wp-content/uploads/images/large/microsoft-sql-server-logo.png" alt="sql.png" height="60"/>
 <a href="" style="white-space:normal"></a>
 </span>
+
+<span style="white-space:nowrap">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python.png" height="60"/>
+<a href="" style="white-space:normal"></a>
+</span>
